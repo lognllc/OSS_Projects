@@ -10,14 +10,12 @@ To check what projects, tools or ideas we are currently developing as `OSS` and 
 
 # Why we created this?
 Following the steps of many companies that have gone `OSS` (e.g. [GitHub][1], [Venmo][2], [Artsy][3]) and some developers from our company that strived to achieve same level of openness we decided to start contributing back.
+
 After an `Android` talk that inspired some ideas we decided to pull the trigger and start working on some of those `OSS` projects.
 
 # Projects
-1. [ ] `Android Studio`'s plugin for a localization GUI.
-2. [ ] `Android` `API` generator (Consume [`Grape-Swagger`][4]'s documentation and generate [`retrofit`][5] code ready for consumption).
+* [Projects](PROJECTS.md)
 
 [1]:https://github.com/github
 [2]:https://github.com/venmo
 [3]:https://github.com/artsy
-[4]:https://github.com/tim-vandecasteele/grape-swagger
-[5]:https://github.com/square/retrofit
