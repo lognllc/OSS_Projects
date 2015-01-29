@@ -11,7 +11,7 @@ The nature of this repository is to have a unified place to list all the open so
 To check what projects, tools or ideas we are currently developing as `OSS` and what's the status on each project as well as comments on the company's culture and current `OSS` work.
 
 # What this repository is NOT for
-* Submit `OSS` projects develop by other companies or developers.
+* Submit `OSS` projects developed by other companies or developers.
 * Ask for new tools, etc.
 
 # Why we created this?
